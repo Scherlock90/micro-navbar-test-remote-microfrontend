@@ -1,12 +1,11 @@
 {
   "name": "navigation",
   "repository": "git@github.com:react-microfrontends/navbar.git",
-  "homepage": "https://Scherlock90.github.io/micro-test/",
   "author": "",
   "license": "ISC",
   "version": "1.0.0",
   "description": "",
-  "main": "react-mf-navbar.js",
+  "main": "react-mf-footer.js",
   "scripts": {
     "lint": "eslint src",
     "start": "webpack serve",
