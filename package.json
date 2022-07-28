@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "react-mf-footer.js",
-  "homepage": "https://Scherlock90.github.io/micro-test/",
+  "homepage": "https://scherlock90.github.io/micro-navbar-test-remote-microfrontend/",
   "scripts": {
     "lint": "eslint src",
     "start": "webpack serve",
