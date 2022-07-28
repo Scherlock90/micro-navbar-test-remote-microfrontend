@@ -6,6 +6,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "react-mf-footer.js",
+  "homepage": "https://Scherlock90.github.io/micro-test/",
   "scripts": {
     "lint": "eslint src",
     "start": "webpack serve",
